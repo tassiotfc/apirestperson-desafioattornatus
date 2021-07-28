@@ -51,8 +51,6 @@ Para testar o projeto localmente é preciso:
 - Importar para o Eclipse usando a opção de importar projeto Maven
 - Executar o projeto e acessar o seguinte link no browser: http://localhost:8080/swagger-ui.html
 
-Caso prefira, a API pode ser testada clicando diretamente aqui: 
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
