@@ -47,7 +47,7 @@ A APIREST Pessoa provê os seguintes serviços:
 - Poder informar qual endereço é o principal da pessoa
 
 Para testar o projeto localmente é preciso:
-- Clone o projeto
+- Clonar o projeto
 - Importar para o Eclipse usando a opção de importar projeto Maven
 - Executar o projeto e acessar o seguinte link no browser: http://localhost:8080/swagger-ui.html
 
